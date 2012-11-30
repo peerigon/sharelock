@@ -1,0 +1,15 @@
+{
+    "name": "sharelock",
+    "description": "Awesome encryption for social networks.",
+    "version": "0.0.1",
+    "repository": "git://github.com/peerigon/sharelock",
+    "author": "peerigon <developers@peerigon.com>",
+    "main": "./lib/index.js",
+    "keywords": ["encryption", "social", "security", "privacy"],
+    "dependencies": {},
+    "devDependencies": {
+        "expect.js": "0.x",
+        "mocha": "1.x"
+    },
+    "scripts" : {}
+}
